@@ -31,7 +31,7 @@ header a::before{
     
 
 .p0{
-    padding: 50px 20px 50px 30px ;
+    padding: 50px 20px 80px 30px ;
 }
 .p0 p{
     font-size: 30px;
@@ -39,7 +39,10 @@ header a::before{
 }
 
 .p1{
-    padding: 50px 20px 50px 30px;
+    padding: 50px 20px 80px 30px;
+    background-color: rgba(0, 0, 0, 0.241);
+    width: 400px;
+    border-radius: 20px;
 }
 .p1 p{
     font-size: 30px;
@@ -63,7 +66,10 @@ header a::before{
 }
 
 .p4{
-    padding: 50px 20px 50px 30px;
+    padding: 50px 20px 80px 30px;
+    background-color: rgba(0, 0, 0, 0.241);
+    width: 400px;
+    border-radius: 20px
 }
 .p4 p{
     font-size: 30px;
@@ -71,7 +77,7 @@ header a::before{
 }
 
 .p5{
-    padding: 50px 20px 50px 30px;
+    padding: 50px 20px 80px 30px;
 }
 .p5 p{
     font-size: 30px;
@@ -84,4 +90,24 @@ header a::before{
 .p6 p{
     font-family: 'Sriracha', cursive;
     font-size: 30px;
+}
+
+.fundo1{
+    width: auto;
+    padding: 180px;
+    padding-left: 10px;
+    background: black url(/imagens/background001.jpg) no-repeat;
+    background-attachment: inherit;
+    background-position: left center;
+    color: white;
+}
+
+.fundo2{
+    width: auto;
+    padding: 180px;
+    padding-left: 10px;
+    background: black url(/imagens/background002.jpg) no-repeat;
+    background-attachment: inherit;
+    background-position: left center;
+    color: white;
 }
