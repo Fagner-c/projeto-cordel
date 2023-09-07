@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Passion+One&family=Sriracha&display=swap');
+
+*{
+    margin: 0px;
+    padding: 0px;
+    background-origin: padding-box;;
+}
+
+header{
+    background-color: black;
+    padding: 100px;
+    margin: auto;
+    text-align: center;
+}
+header p{
+    text-decoration: none;
+    color: white;
+    font-size: 150px;
+    font-family: 'Passion One', cursive;
+}
+header a{
+    text-decoration: none;
+    color: rgb(167, 165, 165);
+    font-size: 60px;
+}
+header a::before{
+    content: "Por";
+    color: rgb(108, 108, 108);
+    margin-right: 20px;
+}
+    
+
+.p0{
+    padding: 50px 20px 50px 30px ;
+}
+.p0 p{
+    font-size: 30px;
+    font-family: 'Sriracha', cursive;
+}
+
+.p1{
+    padding: 50px 20px 50px 30px;
+}
+.p1 p{
+    font-size: 30px;
+    font-family: 'Sriracha', cursive;
+}
+
+.p2{
+    padding: 50px 20px 50px 30px;
+}
+.p2 p{
+    font-size: 30px;
+    font-family: 'Sriracha', cursive;
+}
+
+.p3{
+    padding: 50px 20px 50px 30px;
+}
+.p3 p{
+    font-size: 30px;
+    font-family: 'Sriracha', cursive;
+}
+
+.p4{
+    padding: 50px 20px 50px 30px;
+}
+.p4 p{
+    font-size: 30px;
+    font-family: 'Sriracha', cursive;
+}
+
+.p5{
+    padding: 50px 20px 50px 30px;
+}
+.p5 p{
+    font-size: 30px;
+    font-family: 'Sriracha', cursive;
+}
+
+.p6{
+    padding: 50px 30px 50px 30px;
+}
+.p6 p{
+    font-family: 'Sriracha', cursive;
+    font-size: 30px;
+}
