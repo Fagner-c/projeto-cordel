@@ -46,7 +46,7 @@ header a::before{
     background-color: rgba(0, 0, 0, 0.462);
     width: 400px;
     border-radius: 20px;
-    right: -20px;
+    right: -10px;
 }
 .p1 p{
     font-size: 30px;
@@ -76,7 +76,7 @@ header a::before{
     background-color: rgba(0, 0, 0, 0.462);
     width: 400px;
     border-radius: 20px;
-    right: -20px;
+    right: -10px;
 }
 .p4 p{
     font-size: 30px;
