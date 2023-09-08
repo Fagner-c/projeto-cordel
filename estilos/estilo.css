@@ -15,18 +15,18 @@ header{
 header p{
     text-decoration: none;
     color: white;
-    font-size: 150px;
+    font-size: 8vw;
     font-family: 'Passion One', cursive;
 }
 header a{
     text-decoration: none;
     color: rgb(167, 165, 165);
-    font-size: 60px;
+    font-size: 4vw;
 }
 header a::before{
     content: "Por";
     color: rgb(108, 108, 108);
-    margin-right: 20px;
+    margin-right: 10px;
 }
     
 
@@ -40,7 +40,7 @@ header a::before{
 
 .p1{
     padding: 50px 20px 80px 30px;
-    background-color: rgba(0, 0, 0, 0.241);
+    background-color: rgba(0, 0, 0, 0.462);
     width: 400px;
     border-radius: 20px;
 }
@@ -67,7 +67,7 @@ header a::before{
 
 .p4{
     padding: 50px 20px 80px 30px;
-    background-color: rgba(0, 0, 0, 0.241);
+    background-color: rgba(0, 0, 0, 0.462);
     width: 400px;
     border-radius: 20px
 }
@@ -94,20 +94,24 @@ header a::before{
 
 .fundo1{
     width: auto;
-    padding: 180px;
+    padding: 8vw;
     padding-left: 10px;
-    background: black url(/imagens/background001.jpg) no-repeat;
-    background-attachment: inherit;
-    background-position: left center;
+    background: black url(/imagens/background001.jpg) right center no-repeat;
+    background-size: cover;
+    text-shadow: black 1px 1px 1px 1px;
     color: white;
+    box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.502);
+    background-attachment: fixed;
 }
 
 .fundo2{
     width: auto;
-    padding: 180px;
+    padding: 8vw;
     padding-left: 10px;
-    background: black url(/imagens/background002.jpg) no-repeat;
-    background-attachment: inherit;
-    background-position: left center;
+    background: black url(/imagens/background002.jpg) right center no-repeat;
+    text-shadow: black 1px 1px 1px 1px;
+    background-size: cover;
     color: white;
+    box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.502);
+    background-attachment: fixed;
 }
