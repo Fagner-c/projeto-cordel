@@ -3,7 +3,9 @@
 *{
     margin: 0px;
     padding: 0px;
-    background-origin: padding-box;;
+    background-origin: padding-box;
+    text-align: center;
+    margin: auto;
 }
 
 header{
@@ -39,14 +41,17 @@ header a::before{
 }
 
 .p1{
-    padding: 50px 20px 80px 30px;
+    position: relative;
+    padding: 50px 20px 50px 20px;
     background-color: rgba(0, 0, 0, 0.462);
     width: 400px;
     border-radius: 20px;
+    right: -40px;
 }
 .p1 p{
     font-size: 30px;
     font-family: 'Sriracha', cursive;
+    text-align: center;
 }
 
 .p2{
@@ -66,14 +71,17 @@ header a::before{
 }
 
 .p4{
+    position: relative;
     padding: 50px 20px 80px 30px;
     background-color: rgba(0, 0, 0, 0.462);
     width: 400px;
-    border-radius: 20px
+    border-radius: 20px;
+    right: -40px;
 }
 .p4 p{
     font-size: 30px;
     font-family: 'Sriracha', cursive;
+    text-align: center;
 }
 
 .p5{
