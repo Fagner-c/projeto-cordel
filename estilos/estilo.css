@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Passion+One&family=Sriracha&display=swap');
 
+
+
 *{
     margin: 0px;
     padding: 0px;
@@ -46,7 +48,7 @@ header a::before{
     background-color: rgba(0, 0, 0, 0.462);
     width: 400px;
     border-radius: 20px;
-    right: -15px;
+    right: -50px;
 }
 .p1 p{
     font-size: 30px;
@@ -72,11 +74,11 @@ header a::before{
 
 .p4{
     position: relative;
-    padding: 50px 20px 80px 30px;
+    padding: 50px 20px 80px 20px;
     background-color: rgba(0, 0, 0, 0.462);
     width: 400px;
     border-radius: 20px;
-    right: -15px;
+    right: -50px;
 }
 .p4 p{
     font-size: 30px;
