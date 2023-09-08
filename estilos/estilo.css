@@ -96,7 +96,7 @@ header a::before{
     width: auto;
     padding: 8vw;
     padding-left: 10px;
-    background: black url(/imagens/background001.jpg) right center no-repeat;
+    background: black url(../imagens/background001.jpg) right center no-repeat;
     background-size: cover;
     text-shadow: black 1px 1px 1px 1px;
     color: white;
@@ -108,7 +108,7 @@ header a::before{
     width: auto;
     padding: 8vw;
     padding-left: 10px;
-    background: black url(/imagens/background002.jpg) right center no-repeat;
+    background: black url(../imagens/background002.jpg) right center no-repeat;
     text-shadow: black 1px 1px 1px 1px;
     background-size: cover;
     color: white;
