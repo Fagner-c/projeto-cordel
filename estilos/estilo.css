@@ -115,3 +115,11 @@ header a::before{
     box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.502);
     background-attachment: fixed;
 }
+footer{
+    background-color: black;
+    text-align: center;
+    color: white;
+    padding: 100px;
+    font-size: 3vw;
+    font-family: 'Passion One', cursive;
+}
